@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a32c18c-9714-45b4-bd48-648bb35b5af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../IdeaProjects.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../untitled/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../untitled/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../untitled/src/Patika_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../untitled/untitled.iml" beforeDir="false" />
+    <list default="true" id="3a32c18c-9714-45b4-bd48-648bb35b5af6" name="Changes" comment="Pre-Week-2">
+      <change beforePath="$PROJECT_DIR$/../../Week-1/Not_Ortalamasi_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week-1/Not_Ortalamasi_1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +27,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/ozkanceyhan/IdeaProjects/PATİKA/Pre-Week-2/Pre_Week_2/src/Main.java",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/ozkanceyhan/IdeaProjects/PATİKA/Pre-Week-2/Pre_Week_2/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +45,42 @@
       <option name="presentableId" value="Default" />
       <updated>1701355134208</updated>
     </task>
+    <task id="LOCAL-00001" summary="Pre-Week-2">
+      <option name="closed" value="true" />
+      <created>1702322020026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702322020026</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pre-Week-2">
+      <option name="closed" value="true" />
+      <created>1702322138993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702322138993</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/PreWeek_2" />
+    </ignored-roots>
+    <MESSAGE value="Pre-Week-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pre-Week-2" />
   </component>
 </project>
