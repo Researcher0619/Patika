@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="633572be-ccea-4f93-8a71-77069e7b6578" name="Changes" comment="KDV Tutarı Hesaplama">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Özkan Ceyhan &lt;102052449+researcher0619@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2ZPSkZHeAJNPJzE0kK99cuMKuhW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "/Users/ozkanceyhan/IdeaProjects/PATİKA/Week-1/KDV_Tutari/KDV_Tutari/src/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="KDV_Tutari" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="633572be-ccea-4f93-8a71-77069e7b6578" name="Changes" comment="" />
+      <created>1702322370421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702322370421</updated>
+    </task>
+    <task id="LOCAL-00001" summary="KDV Tutarı Hesaplama">
+      <option name="closed" value="true" />
+      <created>1702327588936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702327588936</updated>
+    </task>
+    <task id="LOCAL-00002" summary="KDV Tutarı Hesaplama">
+      <option name="closed" value="true" />
+      <created>1702327610434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702327610434</updated>
+    </task>
+    <task id="LOCAL-00003" summary="KDV Tutarı Hesaplama">
+      <option name="closed" value="true" />
+      <created>1702327697534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702327697534</updated>
+    </task>
+    <task id="LOCAL-00004" summary="KDV Tutarı Hesaplama">
+      <option name="closed" value="true" />
+      <created>1702327734482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702327734482</updated>
+    </task>
+    <task id="LOCAL-00005" summary="KDV Tutarı Hesaplama">
+      <option name="closed" value="true" />
+      <created>1702327758658</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702327758658</updated>
+    </task>
+    <task id="LOCAL-00006" summary="KDV Tutarı Hesaplama">
+      <option name="closed" value="true" />
+      <created>1702327812279</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702327812279</updated>
+    </task>
+    <task id="LOCAL-00007" summary="KDV Tutarı Hesaplama">
+      <option name="closed" value="true" />
+      <created>1702327990785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702327990785</updated>
+    </task>
+    <task id="LOCAL-00008" summary="KDV Tutarı Hesaplama">
+      <option name="closed" value="true" />
+      <created>1702328496929</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702328496929</updated>
+    </task>
+    <task id="LOCAL-00009" summary="KDV Tutarı Hesaplama">
+      <option name="closed" value="true" />
+      <created>1702328688870</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702328688870</updated>
+    </task>
+    <task id="LOCAL-00010" summary="KDV Tutarı Hesaplama">
+      <option name="closed" value="true" />
+      <created>1702328743534</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702328743534</updated>
+    </task>
+    <task id="LOCAL-00011" summary="KDV Tutarı Hesaplama">
+      <option name="closed" value="true" />
+      <created>1702328801478</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702328801478</updated>
+    </task>
+    <task id="LOCAL-00012" summary="KDV Tutarı Hesaplama">
+      <option name="closed" value="true" />
+      <created>1702328823432</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702328823432</updated>
+    </task>
+    <task id="LOCAL-00013" summary="KDV Tutarı Hesaplama">
+      <option name="closed" value="true" />
+      <created>1702328845525</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1702328845525</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="KDV_Tutarı_Hesaplama" />
+    <MESSAGE value="Pre-Week-2" />
+    <MESSAGE value="KDV Tutarı Hesaplama" />
+    <option name="LAST_COMMIT_MESSAGE" value="KDV Tutarı Hesaplama" />
+  </component>
+</project>
