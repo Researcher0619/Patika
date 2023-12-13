@@ -1,0 +1,2 @@
+USER LOGIN
+This Java program prompts the user for a username and password. If the provided credentials match a predefined username patika and password java123, it displays a successful login message. Otherwise, it checks if the entered password is incorrect and offers the option to reset it. If the user chooses to reset the password, the program prompts for a new password, ensuring it is not the same as the old password and the previously entered incorrect password. The process is guided by user-friendly prompts and adheres to a secure password reset mechanism.
