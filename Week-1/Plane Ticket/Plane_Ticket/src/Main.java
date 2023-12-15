@@ -1,40 +1,40 @@
-// FINDING PRICE OF PLANE TICKET
-
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
-        int kilometer, pricePerKilometer = 10, age;
-        double total;
-        boolean isReturnIncluded;
+        System.out.print("Enter the distance (KM): ");
+        int distance = input.nextInt();
 
-        // Prompt the user to enter the distance
-        System.out.print("Enter the distance: ");
-        kilometer = scanner.nextInt();
+        System.out.print("Enter age: ");
+        int age = input.nextInt();
 
-        // Prompt the user to enter whether return is included
-        System.out.print("Is return included? (true/false): ");
-        isReturnIncluded = scanner.nextBoolean();
+        System.out.print("Select the travel type (1: One Way, 2: Round Trip): ");
+        int tripType = input.nextInt();
 
-        // Calculate the total based on the distance and return option
-        total = kilometer * pricePerKilometer * (isReturnIncluded ? 2 : 1);
+        double price = distance * 0.10; // Price per kilometer: 0.10 TL / km
 
-        // Prompt the user to enter their age
-        System.out.print("Enter your age: ");
-        age = scanner.nextInt();
+        if (distance < 0 || age < 0 || (tripType != 1 && tripType != 2)) {
+            System.out.println("Invalid Input!");
+        } else {
+            if (age < 12) {
+                // 50% discount for age under 12
+                price *= 0.5;
+            } else if (age >= 12 && age <= 24) {
+                // 10% discount for age between 12 and 24
+                price *= 0.9;
+            } else if (age >= 65) {
+                // 30% discount for age 65 and over
+                price *= 0.7;
+            }
 
-        // Apply discount based on age
-        if (age < 12) {
-            total *= 0.5;
-        } else if (age < 24) {
-            total *= 0.9;
-        } else if (age > 65) {
-            total *= 0.7;
+            if (tripType == 2) {
+                // 20% discount for round trip
+                price *= 0.8;
+                price = price * 2;    // Double the price for round trip
+            }
+            System.out.println("Total ticket price: " + price + " TL");
         }
-
-        // Output the total price
-        System.out.println("Total: " + total + " TL");
     }
 }
