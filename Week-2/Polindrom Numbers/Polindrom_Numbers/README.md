@@ -1,0 +1,2 @@
+ # Java Palindrome Checker
+This Java program, named Main, includes a method isPalindrom that determines whether a given integer is a palindrome or not. The main method showcases the functionality with an example, checking if the number 10 is a palindrome. The program uses a simple algorithm to reverse the digits of the input number and compares it with the original number to determine palindromicity.
