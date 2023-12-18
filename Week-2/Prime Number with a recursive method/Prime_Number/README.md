@@ -1,0 +1,2 @@
+# Prime Number Checker
+This Java program uses a recursive method to determine whether a given number is prime or not. The program efficiently checks for primality by avoiding unnecessary iterations once the divisor exceeds the square root of the number. Users are prompted to enter a number, and the program provides feedback on whether the entered number is a prime number or not.
