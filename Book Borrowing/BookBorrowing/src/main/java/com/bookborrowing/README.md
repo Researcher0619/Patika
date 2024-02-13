@@ -48,3 +48,27 @@ This is a simple Library Management System that manages books, authors, categori
 
 - **Book - Book Borrowing (One-to-Many):** A book can have multiple borrowing transactions, but each borrowing transaction is associated with only one book.
 
+
+<img width="857" alt="Ekran Resmi 2024-02-13 10 21 33" src="https://github.com/Researcher0619/Patika/assets/102052449/ed7acac0-0af9-498b-8405-2652b6e9590b">
+
+
+<img width="549" alt="Ekran Resmi 2024-02-13 10 14 46" src="https://github.com/Researcher0619/Patika/assets/102052449/2049eb10-5973-4f6e-8bc4-a5f454e14ffe">
+
+
+<img width="598" alt="Ekran Resmi 2024-02-13 10 15 33" src="https://github.com/Researcher0619/Patika/assets/102052449/2a171fed-c7e9-4b91-a65d-9d1a6499f88f">
+
+
+<img width="691" alt="Ekran Resmi 2024-02-13 10 15 57" src="https://github.com/Researcher0619/Patika/assets/102052449/704c913d-f581-4529-bab5-71d2294a7e3d">
+
+
+<img width="469" alt="Ekran Resmi 2024-02-13 10 16 22" src="https://github.com/Researcher0619/Patika/assets/102052449/66d9eec8-1490-4ace-903d-7b08789347bf">
+
+
+<img width="312" alt="Ekran Resmi 2024-02-13 10 16 42" src="https://github.com/Researcher0619/Patika/assets/102052449/f1b613be-f552-4a81-bbd7-00b82fe52233">
+
+
+<img width="602" alt="Ekran Resmi 2024-02-13 10 17 02" src="https://github.com/Researcher0619/Patika/assets/102052449/ef7c42e7-a9b5-4b2f-86c5-77760bfb85a7">
+
+
+
+
