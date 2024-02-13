@@ -1,4 +1,5 @@
-![patika.dev](/Users/ozkanceyhan/Downloads/logo.png)
+![logo](https://github.com/Researcher0619/Patika/assets/102052449/31ca135f-9898-4054-978d-d1d3d6cdb15f)
+
 # Patika Plus Repository
 
 Welcome to my patika+ repository! This repository is a comprehensive collection of all the projects and practice exercises undertaken during my patika+ journey. As I progress through the program, each project and practice session is meticulously organized into dedicated folders within this repository.
