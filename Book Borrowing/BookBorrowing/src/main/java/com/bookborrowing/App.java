@@ -7,6 +7,8 @@ import jakarta.persistence.Persistence;
 
 
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
 
 public class App {
     public static void main(String[] args) {
@@ -32,12 +34,6 @@ public class App {
         publisher.setEstablishment_year(1935);
         entityManager.persist(publisher);
 
-        // Category Adding
-        Category categoryFiction = new Category();
-        categoryFiction.setCategory_name("Fiction");
-        categoryFiction.setDescription("Novels and stories");
-        entityManager.persist(categoryFiction);
-
         // Book Adding
         Book book = new Book();
         book.setBook_name("1984");
@@ -46,6 +42,15 @@ public class App {
         book.setStock(25);
         book.setPublication_year(1949);
         entityManager.persist(book);
+
+        // Category Adding
+        Category categoryFiction = new Category();
+        categoryFiction.setCategory_name("Fiction");
+        categoryFiction.setDescription("Novels and stories");
+        List<Book> bookList = new ArrayList<>();
+        bookList.add(book);
+        categoryFiction.setBookList(bookList);
+        entityManager.persist(categoryFiction);
 
         // BookBorrowing Adding
         Borrowing borrowing = new Borrowing();
