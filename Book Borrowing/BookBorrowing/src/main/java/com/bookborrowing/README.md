@@ -64,7 +64,12 @@ This is a simple Library Management System that manages books, authors, categori
 <img width="469" alt="Ekran Resmi 2024-02-13 10 16 22" src="https://github.com/Researcher0619/Patika/assets/102052449/66d9eec8-1490-4ace-903d-7b08789347bf">
 
 
-<img width="312" alt="Ekran Resmi 2024-02-13 10 16 42" src="https://github.com/Researcher0619/Patika/assets/102052449/f1b613be-f552-4a81-bbd7-00b82fe52233">
+<img width="308" alt="Ekran Resmi 2024-02-15 17 01 31" src="https://github.com/Researcher0619/Patika/assets/102052449/c680a3a8-db01-4503-b890-74fb1d9e4c59">
+
+
+
+
+
 
 
 <img width="602" alt="Ekran Resmi 2024-02-13 10 17 02" src="https://github.com/Researcher0619/Patika/assets/102052449/ef7c42e7-a9b5-4b2f-86c5-77760bfb85a7">
